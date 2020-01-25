@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mohamad Imtiaz",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imtiazz/git-test.git"
+  },"author": "Mohamad Imtiaz",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
